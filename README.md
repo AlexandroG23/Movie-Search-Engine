@@ -28,6 +28,10 @@ Primera iteración:
 
 ✅ Evita que se haga la búsqueda continuamente al escribir (debounce)
 
+Capturas de pantalla del proyecto: 
+
+![Imagen del proyecto](./public/movie.png)
+
 ### Autor
 - Alexandro Asencios
 
